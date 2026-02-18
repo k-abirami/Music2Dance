@@ -1,0 +1,8 @@
+torch
+torchaudio
+librosa
+numpy
+matplotlib
+fastapi
+uvicorn
+python-multipart
